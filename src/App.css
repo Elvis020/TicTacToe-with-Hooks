@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.r {
+  display: inline-block;
+  border: 1px solid grey;
+  font-size: 90px;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  box-sizing: border-box;
+  vertical-align: middle;
+}
+.c {
+  font-size: 0px;
+  min-width: 308px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
